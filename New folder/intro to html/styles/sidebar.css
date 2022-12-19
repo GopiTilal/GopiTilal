@@ -1,0 +1,23 @@
+.sidebar {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 55px;
+    background-color: white;
+    width: 72px;
+}
+
+.side link {
+    height: 76px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.side link:hover {
+     background-color: white;
+}
+
+.side link img {
+    height: 24px;
+}

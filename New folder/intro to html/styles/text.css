@@ -1,0 +1,42 @@
+ .one {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    width: 280px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.two {
+    font-family: Roboto;
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 20px;
+}
+.three {
+    font-family:Roboto;
+    font-size: 14px;
+    color: gray;
+}
+.four {
+    font-family: Roboto;
+    font-size: 14px;
+    color: gray;
+    width: 280px;
+    line-height: 18px;
+    margin-bottom: 100px;
+   
+}
+.apple {
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: red;
+    color: white;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.shop{
+    cursor: pointer;
+}
+.shop:hover {
+    text-decoration: underline;
+}
